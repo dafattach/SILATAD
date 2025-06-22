@@ -3,7 +3,7 @@
 
     <a href="{{ route('index') }}" class="logo d-flex align-items-center">
       <img src="{{ asset('website/img/logo-upn.png') }}" alt="">
-      <span>SIPATCA</span>
+      <span>SILATAD</span>
     </a>
 
     <nav id="navbar" class="navbar">
