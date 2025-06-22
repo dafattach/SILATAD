@@ -159,7 +159,7 @@
                             </tr>
                             <tr>
                                 <td></td>
-                                <td>UPN "Veteran" Jawa Timur</td>
+                                <td>Universitas XYZ</td>
                             </tr>
                             <tr>
                                 <td></td>

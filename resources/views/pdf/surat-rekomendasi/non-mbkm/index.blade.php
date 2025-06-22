@@ -150,7 +150,7 @@
                 <tr>
                     <td class="vertical-align-top" width="230px">Instansi</td>
                     <td class="vertical-align-top" width="5px">:</td>
-                    <td class="vertical-align-top">UPN "Veteran" Jawa Timur</td>
+                    <td class="vertical-align-top">Universitas XYZ</td>
                 </tr>
             </table>
         </section>

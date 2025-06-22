@@ -583,21 +583,21 @@
             <div class="info-box">
               <i class="bi bi-geo-alt"></i>
               <h3>Alamat</h3>
-              <p>Gedung Fasilkom 2<br>Jl. Rungkut Madya No.1, Kec. Gunung Anyar, Surabaya, Jawa Timur 60294</p>
+              <p>Gedung Nama Fakultas<br>Jl. Nama Jalan, Kota, Provinsi, Kode Pos</p>
             </div>
           </div>
           <div class="col">
             <div class="info-box">
               <i class="bi bi-telephone"></i>
               <h3>Telp</h3>
-              <p><a href="tel:+62 (031) 870 6369">+62 (031) 870 6369</a></p>
+              <p><a href="tel:+62 857-5532-4202">+62 857-5532-4202</a></p>
             </div>
           </div>
           <div class="col">
             <div class="info-box">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:fasilkom@upnjatim.ac.id">fasilkom@upnjatim.ac.id</a></p>
+              <p><a href="mailto:info@silatad.test">info@silatad.test</a></p>
             </div>
           </div>
           <div class="col">

@@ -151,7 +151,7 @@
                     <td class="vertical-align-top" width="20px"></td>
                     <td class="vertical-align-top" width="230px">Pada Universitas</td>
                     <td class="vertical-align-top" width="5px">:</td>
-                    <td class="vertical-align-top">UPN "Veteran" Jawa Timur</td>
+                    <td class="vertical-align-top">Universitas XYZ</td>
                 </tr>
             </table>
         </section>
