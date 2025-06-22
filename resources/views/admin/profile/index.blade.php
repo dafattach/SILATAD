@@ -202,7 +202,7 @@
                           <td class="bold capitalize">{{ $employee->position->name }}</td>
                         </tr>
                         <tr class="text-center">
-                          <td class="bold">Fakultas Ilmu Komputer</td>
+                          <td class="bold">Nama Fakultas</td>
                         </tr>
                         <tr class="text-center">
                           <td><img class="ttd" src="{{ $employee->signatureImage }}" alt="ttd"></td>

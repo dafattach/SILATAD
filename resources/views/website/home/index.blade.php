@@ -27,7 +27,7 @@
           <h3>Tentang Kami</h3>
           <h2>Sistem Layanan Tata Administrasi Digital (SILATAD)</h2>
           <p>
-            Adalah sistem informasi yang dapat digunakan oleh mahasiswa aktif Fakultas Ilmu Komputer untuk memudahkan proses pengajuan surat-surat yang dibutuhkan selama proses perkuliahan
+            Adalah sistem informasi yang dapat digunakan oleh mahasiswa aktif Nama Fakultas untuk memudahkan proses pengajuan surat-surat yang dibutuhkan selama proses perkuliahan
           </p>
         </div>
       </div>
@@ -476,7 +476,7 @@
 
     <header class="section-header">
       <h2>Dekanat</h2>
-      <p>Dekanat Fakultas Ilmu Komputer</p>
+      <p>Dekanat Nama Fakultas</p>
     </header>
 
     <div class="row gy-4">

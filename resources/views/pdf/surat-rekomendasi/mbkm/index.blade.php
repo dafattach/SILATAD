@@ -185,7 +185,7 @@
                 </tr>
             </table>
             <p class="text-justify lh-1-5 text-indent">Untuk menjadi peserta Program MBKM <span class="bold">{{ $data['program_name'] }}</span> tahun <span class="bold">{{ $data['year'] }}</span> yang diselenggarakan oleh Kemendikbud Ristek.</p>
-            <p class="text-justify lh-1-5 text-indent">Dengan ini kami menyatakan bahwa yang bersangkutan benar-benar terdaftar sebagai mahasiswa aktif pada program studi <span class="bold">{{ $data['department'] }}</span>, Fakultas Ilmu Komputer tahun akademik <span class="bold">{{ $academicYear }}</span> dan kami telah menyetujui untuk melakukan konversi 20 SKS ke dalam sistem akademik yang berlaku di Universitas Pembangunan Nasional "Veteran" Jawa Timur, sesuai peraturan dari Kemendikbud Ristek untuk dapat berpartisipasi dalam program <span class="bold">{{ $data['program_name'] }}</span> tahun <span class="bold">{{ $data['year'] }}</span>.</p>
+            <p class="text-justify lh-1-5 text-indent">Dengan ini kami menyatakan bahwa yang bersangkutan benar-benar terdaftar sebagai mahasiswa aktif pada program studi <span class="bold">{{ $data['department'] }}</span>, Nama Fakultas tahun akademik <span class="bold">{{ $academicYear }}</span> dan kami telah menyetujui untuk melakukan konversi 20 SKS ke dalam sistem akademik yang berlaku di Universitas XYZ, sesuai peraturan dari Kemendikbud Ristek untuk dapat berpartisipasi dalam program <span class="bold">{{ $data['program_name'] }}</span> tahun <span class="bold">{{ $data['year'] }}</span>.</p>
             <p class="text-justify lh-1-5 text-indent">Demikian surat rekomendasi ini untuk dipergunakan sebagaimana mestinya.</p>
         </section>
 
@@ -201,7 +201,7 @@
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>
-                    <td class="bold">Fakultas Ilmu Komputer</td>
+                    <td class="bold">Nama Fakultas</td>
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>

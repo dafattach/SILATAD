@@ -166,11 +166,11 @@
 
         <section class="px-50 mt-50">
             @if(@$data['starting_date'] && @$data['ending_date'])
-            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Fakultas Ilmu Komputer Universitas Pembangunan Nasional "Veteran" Jawa Timur, yang melaksanakan Praktek Kerja Lapangan. Mulai tanggal {{ Carbon\Carbon::parse($data['starting_date'])->locale('id')->isoFormat('D MMMM Y') }} sampai dengan {{ Carbon\Carbon::parse($data['ending_date'])->locale('id')->isoFormat('D MMMM Y') }}.</p>
+            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Nama Fakultas Universitas XYZ, yang melaksanakan Praktek Kerja Lapangan. Mulai tanggal {{ Carbon\Carbon::parse($data['starting_date'])->locale('id')->isoFormat('D MMMM Y') }} sampai dengan {{ Carbon\Carbon::parse($data['ending_date'])->locale('id')->isoFormat('D MMMM Y') }}.</p>
             @else
-            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Fakultas Ilmu Komputer Universitas Pembangunan Nasional "Veteran" Jawa Timur, yang melaksanakan Praktek Kerja Lapangan.</p>
+            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Nama Fakultas Universitas XYZ, yang melaksanakan Praktek Kerja Lapangan.</p>
             @endif
-            <p class="text-justify text-indent lh-1-5">Sehubungan dengan kegiatan tersebut, maka dengan ini diajukan mahasiswa Fakultas Ilmu Komputer <span class="bold underline capitalize">Program Studi {{ $submission->user->department->name }}</span> yang bernama:</p>
+            <p class="text-justify text-indent lh-1-5">Sehubungan dengan kegiatan tersebut, maka dengan ini diajukan mahasiswa Nama Fakultas <span class="bold underline capitalize">Program Studi {{ $submission->user->department->name }}</span> yang bernama:</p>
             <table class="w-100 ml-30">
                 @foreach ($data['name'] as $key => $name)
                     @if ($name != null && $data['registration_number'][$key] != null)
@@ -192,7 +192,7 @@
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>
-                    <td class="bold">Fakultas Ilmu Komputer</td>
+                    <td class="bold">Nama Fakultas</td>
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>

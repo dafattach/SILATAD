@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-        <title>SILATAD - Fakultas Ilmu Komputer</title>
+        <title>SILATAD - Nama Fakultas</title>
         <meta content="Sistem Layanan Tata Administrasi Digital" name="description">
         <meta content="Sistem Layanan Tata Administrasi Digital" name="keywords">
 

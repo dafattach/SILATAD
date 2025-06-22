@@ -173,7 +173,7 @@
         </section>
 
         <section class="px-50">
-            <p class="text-justify lh-1-5">adalah mahasiswa dari Fakultas Ilmu Komputer Universitas Pembangunan Nasional "Veteran" Jawa Timur yang tidak memiliki catatan akademik atau keterlibatan dalam kegiatan kriminal.</p>
+            <p class="text-justify lh-1-5">adalah mahasiswa dari Nama Fakultas Universitas XYZ yang tidak memiliki catatan akademik atau keterlibatan dalam kegiatan kriminal.</p>
             <p class="text-justify lh-1-5">Demikian surat keterangan ini dibuat untuk dipergunakan sebagaimana mestinya.</p>
         </section>
 
@@ -189,7 +189,7 @@
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>
-                    <td class="bold">Fakultas Ilmu Komputer</td>
+                    <td class="bold">Nama Fakultas</td>
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>

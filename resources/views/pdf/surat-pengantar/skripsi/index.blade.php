@@ -165,8 +165,8 @@
         </section>
 
         <section class="px-50 mt-50">
-            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Fakultas Ilmu Komputer Universitas Pembangunan Nasional "Veteran" Jawa Timur, yang melaksanakan tugas akhir.</p>
-            <p class="text-justify text-indent lh-1-5">Sehubungan dengan kegiatan tersebut, maka dengan ini diajukan mahasiswa Fakultas Ilmu Komputer;</p>
+            <p class="text-justify text-indent lh-1-5">Dalam rangka menunjang kegiatan Akademik Mahasiswa Nama Fakultas Universitas XYZ, yang melaksanakan tugas akhir.</p>
+            <p class="text-justify text-indent lh-1-5">Sehubungan dengan kegiatan tersebut, maka dengan ini diajukan mahasiswa Nama Fakultas;</p>
             <table class="w-100 lh-1-5 ml-30">
                 <tr>
                     <td width="180px">Nama Lengkap</td>
@@ -205,7 +205,7 @@
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>
-                    <td class="bold">Fakultas Ilmu Komputer</td>
+                    <td class="bold">Nama Fakultas</td>
                 </tr>
                 <tr class="text-center">
                     <td class="w-50"></td>
