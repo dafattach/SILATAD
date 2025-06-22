@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>SILATAD - Fakultas Ilmu Komputer</title>
-  <meta content="Sistem Informasi Pelayanan Administrasi Terpadu Civitas Akamedik" name="description">
-  <meta content="Sistem Informasi Pelayanan Administrasi Terpadu Civitas Akamedik" name="keywords">
+  <meta content="Sistem Layanan Tata Administrasi Digital" name="description">
+  <meta content="Sistem Layanan Tata Administrasi Digital" name="keywords">
 
   @include('website.partials.style')
 </head>

@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-lg-6 d-flex flex-column justify-content-center">
         <h1 data-aos="fade-up">Selamat Datang</h1>
-        <h2 data-aos="fade-up" data-aos-delay="400">Sistem Informasi Pelayanan Administrasi Terpadu Civitas Akamedik (SILATAD)</h2>
+        <h2 data-aos="fade-up" data-aos-delay="400">Sistem Layanan Tata Administrasi Digital (SILATAD)</h2>
       </div>
       <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
         <img src="{{ asset('website/img/hero-img.png') }}" class="img-fluid" alt="">
@@ -25,7 +25,7 @@
       <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
         <div class="content">
           <h3>Tentang Kami</h3>
-          <h2>Sistem Informasi Pelayanan Administrasi Terpadu Civitas Akamedik (SILATAD)</h2>
+          <h2>Sistem Layanan Tata Administrasi Digital (SILATAD)</h2>
           <p>
             Adalah sistem informasi yang dapat digunakan oleh mahasiswa aktif Fakultas Ilmu Komputer untuk memudahkan proses pengajuan surat-surat yang dibutuhkan selama proses perkuliahan
           </p>
