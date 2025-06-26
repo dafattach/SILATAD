@@ -19,7 +19,7 @@
             <a href="{{ route('admin.index') }}">SILATAD</a>
           </div>
           <div class="sidebar-brand sidebar-brand-sm">
-            <a href="{{ route('admin.index') }}">SPC</a>
+            <a href="{{ route('admin.index') }}">SLD</a>
           </div>
           @include('admin.partials.sidebar')
         </aside>

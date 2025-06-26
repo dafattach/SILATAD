@@ -1,10 +1,10 @@
 :root {
-    --primary-bg: #ffb606;
-    --primary-bg-hover: #ffc530;
-    --secondary-bg: #2ec4b6;
-    --secondary-bg-hover: #32d3c4;
+    --primary-bg: #1363DF;
+    --primary-bg-hover: #47B5FF;
+    --secondary-bg: #47B5FF;
+    --secondary-bg-hover: #1363DF;
     --danger-bg: #fc544b;
-    --tertiary-bg: #2a4856;
+    --tertiary-bg: #06283D;
     --soft-grey-bg: #f9fafe;
 }
 
