@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
   <title>SILATAD - Nama Fakultas</title>
-  <link href="{{ asset('website/img/favicon.png') }}" rel="icon">
+  <link href="{{ asset('website/img/logo.svg') }}" rel="icon">
 
   @include('admin.partials.style')
 </head>

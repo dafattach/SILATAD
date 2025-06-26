@@ -5,7 +5,7 @@
             <table style="border-collapse: collapse; display: inline-table; vertical-align: middle;">
                 <tr>
                     <td style="padding: 0; vertical-align: middle;">
-                        <img src="{{ asset('website/img/logo-upn.png') }}" alt="logo upn" style="display: block; max-height: 50px; margin: 0; border: 0;">
+                        <img src="{{ asset('website/img/logo.svg') }}" alt="logo upn" style="display: block; max-height: 50px; margin: 0; border: 0;">
                     </td>
                     <td style="padding-left: 10px; vertical-align: middle;">
                         <span style="font-size: 30px; font-weight: bold; color: #333; font-family: 'Nunito', sans-serif;">SILATAD</span>

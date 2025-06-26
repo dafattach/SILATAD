@@ -1,6 +1,6 @@
 <div class="w-100 text-center pt-10" style="border-bottom: 4px double black;">
     <div class="text-center" style="display: inline-block; margin-right: 10px;">
-        <img class="logo vertical-align-middle" src="{{ asset('website/img/logo-upn.png') }}" alt="">
+        <img class="logo vertical-align-middle" src="{{ asset('website/img/logo.svg') }}" alt="">
     </div>
     <div class="vertical-align-middle" style="display: inline-block;">
         <span class="d-block text-center" style="font-size: 14pt;">KEMENTERIAN PENDIDIKAN TINGGI, SAINS DAN TEKNOLOGI</span>

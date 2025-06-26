@@ -100,7 +100,7 @@
             height: 2cm;
         }
         .watermark {
-            background-image: url('{{ asset('website/img/logo-upn.png') }}');
+            background-image: url('{{ asset('website/img/logo.svg') }}');
             background-repeat: no-repeat;
             background-size: 99%;
             background-position: top center;

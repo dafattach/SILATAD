@@ -71,7 +71,7 @@
         <div class="login-container">
             <div class="login-form">
                 <a href="{{ route('index') }}" class="logo d-flex align-items-center justify-content-center mb-2">
-                    <img src="{{ asset('website/img/logo-upn.png') }}" alt="logo upn">
+                    <img src="{{ asset('website/img/logo.svg') }}" alt="logo upn">
                     <span>SILATAD</span>
                 </a>
 
