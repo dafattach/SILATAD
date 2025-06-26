@@ -147,7 +147,7 @@ class Submission extends Model
 
     function getFormattedLetterNumberAttribute() {
         $approvedAt = Carbon::parse($this->approved_at)->locale('id_ID');
-        return $this->letter_number . '/UN.63.7/' . Submission::ROMAN_MONTH[$approvedAt->translatedFormat('n')] . '/' . $approvedAt->translatedFormat('Y');
+        return $this->letter_number . '/XYZ.00.0/' . Submission::ROMAN_MONTH[$approvedAt->translatedFormat('n')] . '/' . $approvedAt->translatedFormat('Y');
     }
 
     function nextLetterNumber() {
